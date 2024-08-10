@@ -1,0 +1,156 @@
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.exe
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.deps.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.runtimeconfig.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Snappier.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.PtoBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.build.PtoBackend.props
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PtoBackend.props
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PtoBackend.props
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\scopedcss\bundle\PtoBackend.styles.css
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CopyComplete
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\refint\PtoBackend.dll
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\pto-frontend\PtoBackend\obj\Debug\net7.0\ref\PtoBackend.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.exe
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.deps.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.runtimeconfig.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Snappier.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.PtoBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.build.PtoBackend.props
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PtoBackend.props
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PtoBackend.props
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\scopedcss\bundle\PtoBackend.styles.css
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CopyComplete
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\refint\PtoBackend.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\obj\Debug\net7.0\ref\PtoBackend.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\por si allgo sale mal aca esta la prrimera verrsion de la app\pto-frontend\PtoBackend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.exe
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.deps.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.runtimeconfig.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Snappier.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.PtoBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.build.PtoBackend.props
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PtoBackend.props
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PtoBackend.props
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\scopedcss\bundle\PtoBackend.styles.css
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.csproj.CopyComplete
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\refint\PtoBackend.dll
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.pdb
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\PtoBackend.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\aa\pto-frontend\PtoBackend\obj\Debug\net7.0\ref\PtoBackend.dll

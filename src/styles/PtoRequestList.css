@@ -1,0 +1,31 @@
+/* PtoRequestList.css */
+.pto-list-container {
+    margin-top: 20px;
+  }
+  
+  .pto-list-title {
+    color: #2c3e50;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  
+  .pto-available-days {
+    font-size: 18px;
+    color: #27ae60;
+    margin-bottom: 15px;
+  }
+  
+  .pto-request-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .pto-request-item {
+    background-color: #ecf0f1;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #34495e;
+  }
+  
